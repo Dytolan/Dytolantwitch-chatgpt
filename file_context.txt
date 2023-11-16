@@ -28,4 +28,6 @@ He has travelled a full circle around the Earth by plane.
 Dytolan went to Twitch Con 2022 and met Aplatypuss
 Dytolan went to California, San Diego and London in 2022
 
+Do not answer with "Dytobot:" or "Dytolanbot:"
+
 Please answer now the prompt of the viewer:
